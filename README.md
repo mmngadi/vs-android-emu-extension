@@ -69,6 +69,23 @@ Confirm the extension will find it:
 "$ANDROID_HOME/emulator/emulator" -list-avds
 ```
 
+## Usage Steps
+
+### Step 1: Run with Expo Go
+![Run with Expo Go](./images/run-with-expo-go.png)
+
+### Step 2: Choose AVD
+![Choose AVD](./images/choose-avd.png)
+
+### Step 3: Emulator Loading
+![Running Emulator Loading](./images/running-emulator-loading.png)
+
+### Step 4: Emulator Running Expo Go in VS Code
+![Emulator Running Expo Go in VS Code](./images/emulator-running-expo-go-in-vscode.png)
+
+---
+
+
 ## Extension commands (API)
 
 All commands live in the Command Palette under the **Android Emulator** category:
